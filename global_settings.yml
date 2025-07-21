@@ -1,0 +1,26 @@
+object_type: global_settings
+# overrides:
+    # "query.cache.eviction.entryAge": 10 minutes
+    # "aggregates.parquet.compression.type": snappy
+    # "query.suppressGrouping": true
+    # "some.invalid.setting": 5
+    # "another.invalid.setting": 6
+    # "true.setting": true
+    # "false.setting": false
+    # "aggregate.speculative.dimensional.minCompressionRatio": 10
+    # "auth.netlogon.domaincontroller": true
+    # "supportZip.logs.includeOtherApps": true
+    # "query.includeComments.general.userComments": true
+    # "aggregates.create.widening.measure.limit": 20
+    # "aggregates.create.narrowing.enabled": true
+    # "aggregates.dimensional.build": true
+    # "load.balancer.keycloak.url": true
+    # "query.language.mdx.drilldown.allLevel.suppressExcelHidden": true
+    # "thrifty.hiveserver2.session.max.age": 1 day
+    # "impala.shuffle.threshold": 100000.0
+    # "aggregates.configuration.maximum_concurrent_materializations": 1
+    # "soap.safe.xml.parsing": true
+    # "tableau.pgwire.authentication": oauth
+    # "otel.metrics.otlp.endpoint": http://127.0.0.1:4318
+    # "pgwire.auth.mode": oid_token_or_password
+    # "pgwire.host": 0.0.0.1
