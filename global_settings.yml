@@ -1,6 +1,6 @@
 object_type: global_settings
 overrides:
-    catalog.deployment.uncommitted.enabled: false
+    catalog.deployment.uncommitted.enabled: true
     # "query.cache.eviction.entryAge": 10 minutes
     # "aggregates.parquet.compression.type": snappy
     # "query.suppressGrouping": true
