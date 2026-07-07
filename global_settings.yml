@@ -3,7 +3,7 @@ overrides:
     catalog.deployment.uncommitted.enabled: false
     xmla.auth.token.enabled: true
     idp.token.audience: teste
-    query.language.mdx.dimquery.result.limit: 1000
+    query.language.mdx.dimquery.result.limit: 10
     # "query.cache.eviction.entryAge": 10 minutes
     # "aggregates.parquet.compression.type": snappy
     # "query.suppressGrouping": true
